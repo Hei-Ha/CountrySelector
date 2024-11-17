@@ -7,3 +7,7 @@ yarn
 yarn dev
 ```
 
+### 打包静态资源到 dist 目录
+```shell
+yarn build
+```
